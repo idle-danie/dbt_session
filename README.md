@@ -31,3 +31,4 @@ dbt test
 
 ## Guideline
 - [Dbt 공식문서](https://docs.getdbt.com/)
+- [작성한 관련 블로그 포스팅](https://velog.io/@idle-danie/Why-DBT-feat.-AB-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%92%88%EC%A7%88)
